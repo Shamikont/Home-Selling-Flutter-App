@@ -1,4 +1,4 @@
-# Design 1 - Flutter UI Collection
+# Flutter Home Selling UI
 
 ![Capture](https://github.com/Shamikont/Home-Selling-Flutter-App/blob/master/design.jpg)
 
